@@ -3,12 +3,12 @@
         {
             "profileName": "default",
             "user": {
-                "name": "iSegaro",
-                "password": "EtT7124&1F3R"
+                "name": "admin",
+                "password": "Zahra1372"
             },
             "servers": [
                 {
-                    "ipAddress": "10.10.10.10",
+                    "ipAddress": "15.235.131.42",
                     "domainName": "",
                     "portBindings": [
                         {
@@ -23,9 +23,9 @@
     ],
     "activeProfile": "default",
     "rpcPort": 8964,
-    "socks5Port": 10808,
+    "socks5Port": 808,
     "loggingLevel": "INFO",
     "socks5ListenLAN": false,
-    "httpProxyPort": 10809,
+    "httpProxyPort": 809,
     "httpProxyListenLAN": false
 }
